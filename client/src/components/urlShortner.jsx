@@ -138,7 +138,7 @@ const UrlShortener = () => {
       <footer className="text-center py-6 text-sm text-gray-500 font-bold dark:text-gray-400 mt-10">
         Built with 💙 by Shivam Verma{" "}
         <a
-          href="https://github.com/yourgithub"
+          href="https://github.com/vshivam05/URL_Shortner_Full_Stack"
           className="text-indigo-500 hover:underline"
           target="_blank"
           rel="noreferrer"
@@ -147,10 +147,10 @@ const UrlShortener = () => {
         </a>{" "}
         |{" "}
         <a
-          href="https://yourproject.vercel.app"
+          href="#"
           className="text-indigo-500 hover:underline"
-          target="_blank"
-          rel="noreferrer"
+        
+         
         >
           Live Demo
         </a>{" "}
